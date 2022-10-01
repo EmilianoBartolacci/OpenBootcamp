@@ -14,6 +14,7 @@ public class Main {
         System.out.println(persona.getTelefono());
     }
 }
+
 class Persona {
     // creamos variables privadas y asignamos sets y gets
     private int edad;
