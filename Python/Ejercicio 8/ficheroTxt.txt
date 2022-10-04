@@ -1,0 +1,6 @@
+primera linea de caracteres
+segunda linea de caracteres
+tercera linea de caracteres
+primera linea de caracteres
+segunda linea de caracteres
+tercera linea de caracteres
